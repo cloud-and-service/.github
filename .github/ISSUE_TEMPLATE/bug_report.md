@@ -1,28 +1,28 @@
 ---
 name: 🐛 Bug
-about: Something is not working as expected
+about: Noget virker ikke som forventet
 title: "[Bug] "
 labels: bug
 ---
 
-## Why
+## Hvorfor
 Hvem er påvirket, og hvad er konsekvensen?
 
-## Current behavior
+## Nuværende adfærd
 Hvad sker der i dag?
 
-## Expected behavior
-Hvad burde der ske?
+## Forventet adfærd
+Hvad burde der ske i stedet?
 
-## Steps to reproduce
+## Trin til at genskabe fejlen
 1. 
 2. 
 3. 
 
-## Acceptance criteria
-- [ ] Fejlen kan ikke længere reproduceres
+## Acceptkriterier
+- [ ] Fejlen kan ikke længere genskabes
 - [ ] Ingen regression i relateret funktionalitet
-- [ ] Relevante tests er opdateret/tilføjet
+- [ ] Relevante tests er opdateret eller tilføjet
 
-## Notes (optional)
-Logs, stacktrace, links, mistanke om årsag.
+## Noter (valgfrit)
+Logs, fejlbeskeder, links, tekniske kommentarer.
