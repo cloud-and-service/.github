@@ -1,22 +1,22 @@
 ---
 name: ✨ Feature
-about: New functionality or improvement
+about: Ny funktionalitet eller forbedring
 title: "[Feature] "
 labels: enhancement
 ---
 
-## Why
-**As a** <role>  
-**I want** <capability>  
-**So that** <value>
+## Hvorfor
+**Som** <rolle>  
+**Vil jeg** <funktionalitet>  
+**Så jeg kan** <værdi/effekt>
 
-## What
-Kort beskrivelse af hvad der skal bygges.
+## Hvad
+Kort og konkret beskrivelse af hvad der skal bygges.
 
-## Acceptance criteria
-- [ ] Given <context>, when <action>, then <result>
-- [ ] Edge cases håndteres
-- [ ] Tests er tilføjet/opdateret
+## Acceptkriterier
+- [ ] Givet <kontekst>, når <handling>, så <resultat>
+- [ ] Edge cases håndteres korrekt
+- [ ] Tests er tilføjet eller opdateret
 
-## Notes (optional)
+## Noter (valgfrit)
 Tekniske overvejelser, afhængigheder, links.
