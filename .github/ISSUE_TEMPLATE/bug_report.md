@@ -1,38 +1,28 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
-
+name: 🐛 Bug
+about: Something is not working as expected
+title: "[Bug] "
+labels: bug
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Why
+Hvem er påvirket, og hvad er konsekvensen?
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+## Current behavior
+Hvad sker der i dag?
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+## Expected behavior
+Hvad burde der ske?
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Steps to reproduce
+1. 
+2. 
+3. 
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+## Acceptance criteria
+- [ ] Fejlen kan ikke længere reproduceres
+- [ ] Ingen regression i relateret funktionalitet
+- [ ] Relevante tests er opdateret/tilføjet
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+## Notes (optional)
+Logs, stacktrace, links, mistanke om årsag.
