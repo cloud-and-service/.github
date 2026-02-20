@@ -1,34 +1,22 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: ''
-labels: ''
-assignees: ''
-
+name: ✨ Feature
+about: New functionality or improvement
+title: "[Feature] "
+labels: enhancement
 ---
 
-## WHY – Rationale
+## Why
+**As a** <role>  
+**I want** <capability>  
+**So that** <value>
 
-**Why is this improvement necessary?**
+## What
+Kort beskrivelse af hvad der skal bygges.
 
-- What problem or limitation is being addressed?
-- What value does this add (quality, performance, maintainability)?
-- Is there any known technical debt or future risk involved?
+## Acceptance criteria
+- [ ] Given <context>, when <action>, then <result>
+- [ ] Edge cases håndteres
+- [ ] Tests er tilføjet/opdateret
 
-## WHAT – Enhanced Behavior
-
-**How should the system's behavior be improved?**
-
-- What changes once the task is completed?
-- What is the expected experience for the user or the system?
-
-### Acceptance Criteria
-- **Given** [context/setup]
-- **When** [action/event]
-- **Then** [expected result]
-
-## HOW – Implementation Details
-
-- High-level technical approach
-- Potential alternatives considered
-- Impact on other parts of the system
+## Notes (optional)
+Tekniske overvejelser, afhængigheder, links.
