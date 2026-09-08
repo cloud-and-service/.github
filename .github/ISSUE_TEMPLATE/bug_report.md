@@ -5,16 +5,6 @@ title: "[Bug] "
 labels: bug
 ---
 
-## Jira – Details
-
-| Felt | Værdi |
-|---|---|
-| **Jira Issue** | [XXX-0000](https://jira.elbek-vejrup.dk/browse/XXX-0000) |
-| **Komponent** | |
-| **Område** | |
-
----
-
 ## Hvorfor
 Hvem er påvirket, og hvad er konsekvensen?
 
